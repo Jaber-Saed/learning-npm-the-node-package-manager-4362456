@@ -13,10 +13,10 @@ BEFORE POSTING YOUR ISSUE:
 
 ## Steps to Reproduce
 <!-- Provide an unambiguous set of steps to reproduce this bug. Include code to reproduce, if relevant. Include a live link if available. -->
-1.
-2.
-3.
-4.
+1.test
+2.test
+3.test
+4.test
 
 ## Expected Behavior
 <!-- What behavior did you expect? -->
